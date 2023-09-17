@@ -1,0 +1,15 @@
+description: RAINGUAGE01A module
+github_branch: RAINGUAGE01A
+github_description: RAINGUAGE01A module
+github_repo: RAINGUAGE01
+github_url: https://github.com/mlab-modules/RAINGUAGE01
+homepage: false
+images:
+- doc/img/RAINGUAGE01A_top_big.jpg
+- doc/img/RAINGUAGE01A_QRcode.png
+- doc/img/RAINGUAGE01A_top_big.png
+mark: 50
+status: 0
+tags: []
+title: RAINGUAGE01
+updated: '2023-09-17T11:34:29.623040+00:00'
